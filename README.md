@@ -10,4 +10,4 @@ El principal motivo que nos impulsa es el aprendizaje!
 
 ¡Estamos en Discord!
 
-Somos parte del servidor de Python En Español y puedes conectar con la comunidad de PythonSDQ en https://discord.gg/hablemospython especificamente en el canal python-sdq.
+Somos parte del servidor de Python En Español y puedes conectar con la comunidad de PythonSDQ en [https://discord.gg/hablemospython](https://discord.gg/hablemospython) especificamente en el canal python-sdq.
